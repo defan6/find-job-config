@@ -6,7 +6,7 @@ server:
     port: 8081
 spring:
     application:
-        name: company-ms
+        name: company-service-ms
     datasource:
         password: root
         url: jdbc:postgresql://localhost:5433/company
