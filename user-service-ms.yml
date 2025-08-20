@@ -11,4 +11,4 @@ spring:
     show-sql: true
 jwt:
   secret: 76fda2e1d5b2f21d82b61b8732b85b78
-  expitation: 86400000
+  expiration: 86400000
