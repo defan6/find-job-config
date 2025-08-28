@@ -12,6 +12,9 @@ spring:
 jwt:
   secret: 76fda2e1d5b2f21d82b61b8732b85b7876fda2e1d5b2f21d82b61b8732b85b7876fda2e1d5b2f21d82b61b8732b85b78
   expiration: 86400000
-
+eureka:
+  instance:
+    hostname: localhost
+    prefer-ip-address: false
 server:
   port: 8084
